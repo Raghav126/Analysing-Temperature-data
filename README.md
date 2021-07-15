@@ -13,7 +13,8 @@
 
 3. The data for this project comes from a subset of The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network (GHCN-Daily)](https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.
 4. I had specifically download the data for Gujarat's station, you can download the data of your area by surfing this [site](https://www.ncdc.noaa.gov/cdo-web/search?datasetid=GHCND) or you can use my dataset which is given in this repository.
-5. I have given one JPG file which shows the output of map with red dots which shows the stations that we had used for our analysis.
+5. Run the `ProjectDS.ipynb` file on your virtual environment.
+6. I have given one JPG file which shows the output of map with red dots which shows the stations that we had used for our analysis.
 
 **Note:** Install only those versions of libraries on your virtual environment, which I have mention in `requirements.txt` file (to install correct versions, please follow above steps). Otherwise output of the __map__ will not rendered on your screen and it gives error.
 
